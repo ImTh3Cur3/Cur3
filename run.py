@@ -1,3 +1,4 @@
+clear
 print("Podaj liczbe:")
 x = input()
 x = int(x)
