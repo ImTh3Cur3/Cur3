@@ -1,4 +1,6 @@
-clear
+import os
+claer = lambda: os.system(clear)
+clear()
 print("Podaj liczbe:")
 x = input()
 x = int(x)
