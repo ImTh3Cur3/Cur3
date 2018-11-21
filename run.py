@@ -1,4 +1,4 @@
-print("Podaj liczbę:")
+print("Podaj liczbe:")
 x = input()
 x = int(x)
 if x == 2137:
