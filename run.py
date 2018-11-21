@@ -1,6 +1,4 @@
-import os
-claer = lambda: os.system(clear)
-clear
+print(chr(27) + "[2J")
 print("Podaj liczbe:")
 x = input()
 x = int(x)
